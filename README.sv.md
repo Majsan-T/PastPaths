@@ -47,6 +47,8 @@
 
 Uppgraderar du? Kör bara det nya installationsprogrammet – din data ligger kvar, och installationsprogrammet erbjuder att göra en säkerhetskopia först.
 
+📬 **Få besked om nya versioner:** [anmäl dig till nyhetslistan](https://pastpaths.se/mailman/listinfo/pastpaths_releases_pastpaths.se) (några mejl per år), eller klicka på **Watch → Custom → Releases** här på GitHub.//
+
 ## 📚 Dokumentation
 
 Fullständig användarmanual finns på [pastpaths.se](https://pastpaths.se/). Under [Nyheter & uppdateringar](https://pastpaths.se/changelog/) ser du vad som är nytt i varje version.
