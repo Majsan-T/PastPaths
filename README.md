@@ -47,6 +47,8 @@
 
 Upgrading? Just run the new installer – your data stays in place, and the installer offers to make a backup first.
 
+📬 **Get notified about new versions:** [sign up for the mailing list](https://pastpaths.se/mailman/listinfo/pastpaths_releases_pastpaths.se) (a few emails a year), or click **Watch → Custom → Releases** here on GitHub.
+
 ## 📚 Documentation
 
 The full user manual is available at [pastpaths.se/en](https://pastpaths.se/en/). See also [News & Updates](https://pastpaths.se/en/changelog/) for what's new in each version.
