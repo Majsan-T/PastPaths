@@ -7,7 +7,7 @@
 [![Download PastPaths](https://img.shields.io/badge/Download-PastPaths%20for%20Windows-2e7d32?style=for-the-badge)](https://pastpaths.se/en/download/)
 [![Manual](https://img.shields.io/badge/Manual-pastpaths.se-5d4037?style=for-the-badge)](https://pastpaths.se/en/)
 
-![PastPaths – persons, places, photos, and stories in one place](https://pastpaths.se/assets/screenshots/welcome.en.png)
+[PastPaths – persons, places, photos, and stories in one place](https://pastpaths.se/assets/screenshots/welcome.en.png)
 
 > *"I have done genealogy research for a long time and tested many different applications. Some felt outdated, while others required expensive subscriptions where my data ended up in the cloud. I built PastPaths because I wanted a fast, clean tool where all photos, stories, and sources can be sorted and organized."*
 > — **Maria Tingvall**, creator of PastPaths
