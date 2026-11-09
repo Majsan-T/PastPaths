@@ -75,4 +75,6 @@ See [license and copyright](https://pastpaths.se/en/legal/license/) and the
 full [End User License Agreement (EULA)](https://pastpaths.se/en/legal/eula/)
 for complete terms.
 
+Get information about new releases: [PastPaths Releases mailinglist](https://pastpaths.se/mailman/listinfo/pastpaths_releases_pastpaths.se)
+
 © Maria Tingvall
